@@ -1,0 +1,25 @@
+theory: 46.23800000000003
+systems: 41.820299999999996
+system: 41.6889
+luhmann: 26.920099999999998
+society: 24.1383
+self: 22.5181
+communication: 20.2326
+sense: 14.6425
+science: 13.127000000000002
+way: 13.113800000000001
+modern: 10.5441
+book: 10.2469
+approach: 9.0255
+state: 8.7541
+construction: 8.662799999999999
+social theory: 8.3732
+democracy: 8.293899999999999
+brain: 7.1156
+criticisms: 6.893799999999999
+radicalism: 6.8707
+mechanism: 6.5354
+analysis: 6.322699999999999
+consciousness: 6.265999999999999
+rights: 5.7231000000000005
+forms: 5.4613

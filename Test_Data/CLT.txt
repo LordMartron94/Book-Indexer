@@ -1,0 +1,7 @@
+Self-generated information is often better remembered than non-self-generated information.
+This effect has been robust for item memory (i.e., the content of information) across many different experiments, but inconsistent for context memory (e.g., memory for the extraneous details of information, such as source).
+Previous studies examining the generation effect, however, have often applied constraints on the generation task possibly limiting the memory benefit from self-generation.
+In three experiments, we compared item and context memory for a lower-constraint generation task (i.e., free response to a cue word) relative to higher-constraint generation tasks (Exp. 1 & 2: scramble; Exp. 3: word fragment).
+Results showed that participants had better item and context memory in the lower-constraint compared to higher-constraint generation tasks.
+Overall, these experiments suggest that that the mnemonic benefits of self-generation depend on the level of task constraint.
+This study further advances the idea that self-generation is a powerful mnemonic that leads to enriched memory representations for both the item and context, especially when fewer generation constraints are imposed.
